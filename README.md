@@ -1,11 +1,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> ALPHA-MD V2.0.0</h1>
+ <h1 align="center"> FEITH-MD2.0.0</h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=Ȃ̈M̑̈+Ȃ̈L̑̈P̑̈H̑̈Ȃ̈+M̑̈D̑̈+C̑̈Ȓ̈Ȇ̈Ȃ̈T̑̈Ȇ̈D̑̈+B̑̈Y̑̈+K̑̈Ȇ̈Ȋ̈T̑̈H̑̈K̑̈Ȇ̈Ȋ̈Z̑̈Z̑̈Ȃ̈H̑̈)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=pink&lines=Ȃ̈M̑̈+FEITH+M̑̈D̑̈+C̑̈Ȓ̈Ȇ̈Ȃ̈T̑̈Ȇ̈D̑̈+B̑̈Y̑̈+IGWE)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
@@ -14,7 +14,7 @@
 
 
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/967c663a5978c545f78d6.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://i.imgur.com/ANVneN4.jpeg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  SCAN SESSION </h1>
  
